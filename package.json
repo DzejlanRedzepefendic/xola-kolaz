@@ -1,6 +1,6 @@
 {
     "name": "kolaz",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "Collection of components for building Node applications",
     "repository": {
         "type": "git",
