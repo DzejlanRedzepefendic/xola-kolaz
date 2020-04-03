@@ -1,0 +1,22 @@
+{
+    "name": "kolaz",
+    "version": "0.0.0",
+    "description": "Collection of components for building Node applications",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/articode/kolaz.git"
+    },
+    "keywords": [
+        "nodejs",
+        "framework"
+    ],
+    "author": "Igor Stojadinovic",
+    "license": "ISC",
+    "files": [
+        "/dist"
+    ],
+    "bugs": {
+        "url": "https://github.com/articode/kolaz/issues"
+    },
+    "homepage": "https://github.com/articode/kolaz#readme"
+}
