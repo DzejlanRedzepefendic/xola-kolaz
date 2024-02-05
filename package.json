@@ -1,10 +1,10 @@
 {
-    "name": "kolaz",
-    "version": "0.2.0",
+    "name": "xola-kolaz",
+    "version": "0.1.0",
     "description": "Collection of components for building Node applications",
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/articode/kolaz.git"
+        "url": "git+ssh://git@github.com/DzejlanRedzepefendic/xola-kolaz.git"
     },
     "keywords": [
         "nodejs",
@@ -16,7 +16,7 @@
         "/Component"
     ],
     "bugs": {
-        "url": "https://github.com/articode/kolaz/issues"
+        "url": "https://github.com/DzejlanRedzepefendic/xola-kolaz/issues"
     },
-    "homepage": "https://github.com/articode/kolaz#readme"
+    "homepage": "https://github.com/DzejlanRedzepefendic/xola-kolaz#readme"
 }
